@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m currently working on data analysis projects and real-world impact solutions👯 I’m looking to collaborate on<br><br>Data Analytics projects, real-world problem-solving ideas, and impactful tech solutions for Tier 2/3 cities<br><br>🤝 I’m looking for help with<br><br>Advanced Data Analytics, Machine Learning, and scaling real-world products<br><br>🌱 I’m currently learning<br><br>Data Analytics (EDA, SQL, Python), Machine Learning basics, and building data-driven products<br><br>💬 Ask me about<br><br>Data Analysis, project building, hackathons, and solving real-life problems using tech<br><br>⚡ Fun fact<br><br>I love turning real-world problems into startup ideas and actually building them 🚀
+# About Me:
+I’m currently working on data analysis projects and real-world impact solutions I’m looking to collaborate on<br><br>Data Analytics projects, real-world problem-solving ideas, and impactful tech solutions for Tier 2/3 cities<br><br>🤝 I’m looking for help with<br><br>Advanced Data Analytics, Machine Learning, and scaling real-world products<br><br>🌱 I’m currently learning<br><br>Data Analytics (EDA, SQL, Python), Machine Learning basics, and building data-driven products<br><br>💬 Ask me about<br><br>Data Analysis, project building, hackathons, and solving real-life problems using tech<br><br>⚡ Fun fact<br><br>I love turning real-world problems into startup ideas and actually building them 🚀
 
 
 ## 🌐 Socials:
