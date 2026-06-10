@@ -1,11 +1,13 @@
 # About Me
 # Hi, I'm Dhruv Rupavatiya
 
-I am a Computer Engineering student with an interest in data analytics and solving real-world problems. I work with Python, SQL, and Excel to explore data and build practical solutions.
+Hi, I'm Dhruv Rupavatiya
 
-I am currently focused on improving my skills through projects and preparing for data-related internships. I enjoy combining analytical thinking with creativity to build meaningful ideas.
+Computer Engineering Student | Aspiring Data Scientist
 
-Let's connect and learn together.
+Currently learning Data Science, Machine Learning, Python, SQL, Excel, and Power BI through projects and continuous practice.
+
+Learning | Building | Growing
 
 LinkedIn: https://www.linkedin.com/in/dhruv-rupavatiya  
 GitHub: https://github.com/dhruvrupavatiya006
